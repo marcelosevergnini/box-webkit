@@ -1,0 +1,1 @@
+/Users/severmar/dev/repos/other/boxwebkit/buildSrc/src/test/java/com/severgnini/marcelo/buildsrc/ExampleUnitTest.kt
